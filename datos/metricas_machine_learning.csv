@@ -1,0 +1,5 @@
+modelo,mae_test,rmse_test,r2_test
+Histogram Gradient Boosting,29.53,37.04,0.4468
+XGBoost,29.57,37.08,0.4455
+Ridge,31.81,39.75,0.3630
+Media de entrenamiento,40.36,49.80,-0.0000

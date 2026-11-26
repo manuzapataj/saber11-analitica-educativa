@@ -39,4 +39,3 @@ python contar_periodos.py ruta/al/archivo.csv --salida volumen_actual.csv
 **Equipo académico** Manuela Zapata Jiménez y David Cardona Duque.
 
 **English summary.** Three course projects on Colombian educational assessment, covering regression baselines, Cassandra and Dask ingestion, and tabular neural-network experiments. The portfolio includes aggregate results and a reproducible cohort-volume check.
-

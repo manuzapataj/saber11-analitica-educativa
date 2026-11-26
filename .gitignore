@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+/originales/
+/data.csv
+/*.csv.gz
+/*.parquet
+/volumen_actual.csv
